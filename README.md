@@ -28,7 +28,7 @@ This is a "urls" file used by the [newsboat console feed reader](https://newsboa
 <dl>
   <dt>Why do this?</dt>
   <dd>Why not? RSS/Atom feeds are cool old tech that allow individuals to keep up with the rest of the web (or their preferred subset thereof) at their own convenience.</dd>
-  <dt>What if I don't use newsboat?<dt>
+  <dt>What if I don't use newsboat?</dt>
   <dd>You should be able to use this list to populate your preferred feed reader with a little work. It's plain text.</dd>
   <dt>Can I remove feeds I don't want from my copy?</dt>
   <dd>Of course you can. Take a copy, and do whatever you like with it.</dd>
