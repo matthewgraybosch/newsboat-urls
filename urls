@@ -1,4 +1,4 @@
-http://127.0.0.1/rss.xml me
+# http://127.0.0.1/rss.xml me
 https://www.romanzolotarev.com/rss.xml blog
 https://debug.ninja/feed.xml blog
 https://mwl.io/feed blog
@@ -26,3 +26,5 @@ https://satsuma.dreamwidth.org/data/rss
 http://tinysubversions.com/feed.xml
 https://asininetech.com/feed/
 https://omnius.zone/static/feed/feed.rss podcast aggregated
+https://www.hyperborea.org/journal/feed/ tech photos scifi comics
+https://theunderlinguist.blogspot.com/feeds/posts/default
