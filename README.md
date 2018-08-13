@@ -10,11 +10,18 @@ This is a "urls" file used by the [newsboat console feed reader](https://newsboa
 
 ## How to Contribute
 
-1. Fork the repository
-2. Add your favorite RSS/Atom feed URLs with tags or add tags to existing feeds
-3. Commit
-4. File a pull request
+1. Fork the repository.
+2. Add your favorite RSS/Atom feed URLs with tags or add tags to existing feeds.
+3. Commit.
+4. File a pull request.
 5. If I don't merge within a day, hit me up on [Mastodon](https://octodon.social/@starbreaker) and remind me.
+
+**Alternative for those unfamiliar with git and GitHub**
+
+1. Go to "Issues". It's between "Code" and "Pull Requests".
+2. Open a new issue.
+3. Add the RSS/Atom feed for your website/blog/podcast.
+4. Submit your issue.
 
 ## Rules for Contributors
 
